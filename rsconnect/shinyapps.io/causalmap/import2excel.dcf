@@ -1,0 +1,13 @@
+name: import2excel
+title: import2excel
+username:
+account: causalmap
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7693418
+bundleId: 6593497
+url: https://causalmap.shinyapps.io/import2excel/
+when: 1670246651.4697
+lastSyncTime: 1670246651.46971
+asMultiple: FALSE
+asStatic: FALSE
